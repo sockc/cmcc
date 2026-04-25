@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
-        android:label="CMC Bypass"
+        android:label="CMC Bypass VPN"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <meta-data
@@ -10,7 +10,7 @@
 
         <meta-data
             android:name="xposeddescription"
-            android:value="Bypass Samsung MDEC China SIM restriction" />
+            android:value="Bypass Samsung MDEC China SIM and VPN restrictions" />
 
         <meta-data
             android:name="xposedminversion"
